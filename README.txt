@@ -1,2 +1,1 @@
-on control system.
-Git is free software.
+This is a repo for learn and train.
